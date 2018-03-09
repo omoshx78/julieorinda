@@ -24,9 +24,9 @@ h2{
     border-radius:10px;
     padding-left: 10px;
     padding-right: 10px;
-    
-    
+       
 }
+
 .mainpic{
   /*text-align: center;*/
   display: block;
@@ -54,7 +54,7 @@ h2{
 }
 
 .map{
-  text-align:left;
+  text-align:center;
 }
 
 div.gallery {
